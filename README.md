@@ -45,6 +45,10 @@
    <img width="854" height="1433" alt="image" src="https://github.com/user-attachments/assets/cdc529a7-ecda-4d60-b127-e7eaa80373b4" />
 
 
+Marks Split Up:
+<img width="1578" height="1083" alt="image" src="https://github.com/user-attachments/assets/45d29b7a-a932-43e1-8113-b9597aeb20fa" />
+
+
    **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
