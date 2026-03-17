@@ -44,5 +44,5 @@ a)	The current across 330Ω resistor is	A.
 
 b)	The current across 560Ω resistor is	A.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	A
 
