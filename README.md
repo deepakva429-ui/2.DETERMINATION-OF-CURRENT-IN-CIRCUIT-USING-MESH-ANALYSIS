@@ -21,8 +21,7 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
-<img width="1550" height="1014" alt="image" src="https://github.com/user-attachments/assets/4d3f42c5-2d79-4b19-86c5-8bfe51a07bea" />
-
+<img width="1599" height="1070" alt="image" src="https://github.com/user-attachments/assets/8d5662ba-e85b-4b4c-9f1d-4df4ee675986" />
 
 **PROCEDURE:** 
 
@@ -39,15 +38,13 @@
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
 7.  Table
-<img width="1600" height="1090" alt="image" src="https://github.com/user-attachments/assets/25cd9870-44ba-4e8f-a8d6-b29c5afd470f" />
+<img width="1600" height="1398" alt="image" src="https://github.com/user-attachments/assets/cbd3354c-50b7-43cd-9bc4-d2d0390349b2" />
 
 8.  Calculation
-   <img width="854" height="1433" alt="image" src="https://github.com/user-attachments/assets/cdc529a7-ecda-4d60-b127-e7eaa80373b4" />
-
+   <img width="901" height="1541" alt="image" src="https://github.com/user-attachments/assets/61e86375-6e0b-42cf-977d-731c4378329b" />
 
 Marks Split Up:
-<img width="1578" height="1083" alt="image" src="https://github.com/user-attachments/assets/45d29b7a-a932-43e1-8113-b9597aeb20fa" />
-
+<img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/8c436a6b-8f41-4eb4-94fb-f526b3c239cf" />
 
    **RESULT:**
 
